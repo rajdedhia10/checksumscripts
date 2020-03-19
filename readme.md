@@ -1,4 +1,4 @@
-# SCripts to generate Checksums
+# Scripts to generate Checksums
 Collection of simple batch scripts to generate Checksums of files in Windows
 Includes MD2, MD4, MD5, SHA1, SHA256, SHA384 and SHA512
 
