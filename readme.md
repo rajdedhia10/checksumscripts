@@ -1,3 +1,5 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 # Scripts to generate Checksums
 Collection of simple batch scripts to generate Checksums of files in Windows<br>
 Includes MD2, MD4, MD5, SHA1, SHA256, SHA384 and SHA512 generation
